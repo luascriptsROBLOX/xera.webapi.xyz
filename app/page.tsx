@@ -3,8 +3,8 @@ import React from "react";
 import Particles from "./components/particles";
 
 const navigation = [
-  { name: "Projects", href: "/projects" },
-  { name: "Contact", href: "/contact" },
+  { name: "Projects", href: "https://xeraultron.my.canva.site/xyz" },
+  { name: "Discord", href: "https://discord.gg/GMMp3pjdJY" },
 ];
 
 export default function Home() {
@@ -38,11 +38,11 @@ export default function Home() {
           I'm building{" "}
           <Link
             target="_blank"
-            href="https://unkey.dev"
+            href="https://xeraultron.my.canva.site/xyz
             className="underline duration-500 hover:text-zinc-300"
           >
-            unkey.dev
-          </Link> to solve API authentication and authorization for developers.
+            DEVLOPER: 
+          </Link> kokil AKA luascripts787 ^_^
         </h2>
       </div>
     </div>
